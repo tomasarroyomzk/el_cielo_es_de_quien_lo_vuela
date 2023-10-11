@@ -8,6 +8,8 @@ Proyecto de Análisis de Accidentes Aéreos 🛩️
 
 Los accidentes aéreos, aunque raros, suceden y tienen implicaciones profundas tanto en vidas humanas como en pérdidas económicas. Comprender las razones detrás de ellos y sus tendencias temporales es fundamental para mejorar la seguridad y prevenir incidentes futuros. Mi rol en este proyecto como Data Analyst ha sido bucear en los datos disponibles, analizarlos, visualizarlos y proporcionar insights que puedan ser utilizados para mejorar las estrategias y políticas de seguridad aérea en el futuro.
 
+![accidentes](accidentes-aviones-comerciales-mas-mortiferos-de-la-historia14.jpg)
+
 🧐 Objetivos del Proyecto
 
 Realizar un Análisis Exploratorio de Datos (EDA) para entender las características y problemas de nuestro dataset.
@@ -48,6 +50,6 @@ La información y los resultados obtenidos de este proyecto son exclusivamente p
 
 🤝 Agradecimientos
 
-Agradezco a [Tus Agradecimientos y Menciones].
+Agradezco a Henry, compañeros y TA's.
 
 Este proyecto ha sido una travesía de aprendizaje y descubrimiento. Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto. ¡Espero que lo encuentres informativo e inspirador! 🚁🌟
