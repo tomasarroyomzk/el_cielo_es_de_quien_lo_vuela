@@ -1,5 +1,15 @@
 Proyecto de Análisis de Accidentes Aéreos 🛩️
 
+"Sucede que vueles como vueles, volar cansa. 
+Volar es de alguna manera sentirse vacío. 
+Vacío que se ha despojado lo suficiente para pesar menos que las alas. 
+Volando no hay forma de aquietar el movimiento, ni de volar para atrás,
+vueles en la dirección que vueles, estarás volando hacia adelante."
+
+.   Fragmento de "El cielo es de quien lo vuela"
+                           Guillermo De Pösfay                .
+
+
 ![avion](avion.jpg)
 
 ¡Hola! Soy Tomas Arroyo, apasionado/a por el análisis de datos y esta vez he estado trabajando en un proyecto centrado en la investigación y análisis de accidentes aéreos desde principios del siglo XX, bajo la solicitud de la Organización de Aviación Civil Internacional (OACI).
