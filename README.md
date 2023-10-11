@@ -1,6 +1,6 @@
 Proyecto de Análisis de Accidentes Aéreos 🛩️
 
-(avion.jpg)
+![avion](avion.jpg)
 
 ¡Hola! Soy Tomas Arroyo, apasionado/a por el análisis de datos y esta vez he estado trabajando en un proyecto centrado en la investigación y análisis de accidentes aéreos desde principios del siglo XX, bajo la solicitud de la Organización de Aviación Civil Internacional (OACI).
 
